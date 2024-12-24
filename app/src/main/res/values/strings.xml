@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="name">Lê Tiến Đạt</string>
+    <string name="quote">A weirdo who wishes to be cursed by the wisdom</string>
+
+    <string name="phone">0908482602</string>
+    <string name="email">datletien1352004@gmail.com</string>
+    <string name="github">dat-gh</string>
+</resources>
